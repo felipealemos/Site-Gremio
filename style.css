@@ -10,7 +10,7 @@ body{
 }
 
 #navbar {
-    background-color: #006437;
+    background-color: #0484c4;
     color: rgb(255, 255, 255);
 
     display: flex;
@@ -31,14 +31,13 @@ body{
 
 .noticias {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #0695e7;
+    background-color: #0484c4;
     color: white;
-    border: 6px solid #00ff8c;;
 }
 
 .escalacao{
     text-align: center;
-    background-color: #006437;
+    background-color: #0484c4;
     color: white;
     margin: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -76,7 +75,7 @@ body{
 }
 
 footer {
-    background-color: #006437;
+    background-color: #0484c4;
     padding: 10px;
     text-align: center;
     color: white;
